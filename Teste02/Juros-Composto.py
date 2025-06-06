@@ -1,3 +1,10 @@
+# C = capital inicial
+# i = taxa de juros
+# t = tempo
+# M = montante final
+# J = valor dos juros
+
+
 C = float(input("Informe a capital inicial: "))
 i = float(input("Informe a taxa de juros mensal: ")) / 100
 t = float(input("Informe quantos meses: "))
